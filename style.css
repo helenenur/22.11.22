@@ -1,3 +1,19 @@
 * {
   box-sizing: border-box;
 }
+header {
+  background-color:aquamarine;
+}
+article{
+  background-color: bisque;
+}
+aside{
+  background-color:  rgba(213 , 226, 188);
+}
+main{
+  display: flex;
+}
+
+  
+
+
